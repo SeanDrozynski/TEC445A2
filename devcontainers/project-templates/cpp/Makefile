@@ -1,4 +1,4 @@
-TARGET := hello
+TARGET := Bookstore
 
 CXXFLAGS += -std=c++17 -g3 -Wall -Wextra
 
